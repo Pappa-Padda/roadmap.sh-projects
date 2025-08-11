@@ -1,0 +1,20 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Pappa-Padda/roadmap.sh-projects#readme",
+  "bugs": {
+    "url": "https://github.com/Pappa-Padda/roadmap.sh-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pappa-Padda/roadmap.sh-projects.git"
+  },
+  "license": "ISC",
+  "author": "JP Retief",
+  "type": "commonjs",
+  "main": "task-tracker.js",
+  "scripts": {
+    "test": "node task-tracker.js"
+  }
+}
